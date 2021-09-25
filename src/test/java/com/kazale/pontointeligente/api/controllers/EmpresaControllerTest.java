@@ -39,7 +39,7 @@ public class EmpresaControllerTest {
 	private static final String BUSCAR_EMPRESA_CNPJ_URL = "/api/empresas/cnpj/";
 	private static final Long ID = Long.valueOf(1);
 	private static final String CNPJ = "51463645000100";
-	private static final String RAZAO_SOCIAL = "Empresa XYZ";
+	private static final String RAZAO_SOCIAL = "Empresa XYZ1";
 
 	@Test
 	@WithMockUser
